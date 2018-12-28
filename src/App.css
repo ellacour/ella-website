@@ -18,10 +18,29 @@
 .first-title{
   font-family: 'Love Ya Like A Sister', cursive;
   text-align: center;
-  font-size: 120px;
+  font-size: 130px;
   color: #129b9b;
   padding-top:120px
 }
+.second-title {
+  font-family: 'Love Ya Like A Sister', cursive;
+  text-align: left;
+  font-size: 32px;
+  color:#129b9b;
+  margin: 30px 0;
+}
+.contains.second-part .second-title {
+  color: white;
+}
+.contains{
+  padding: 50px;
+}
+.contains.second-part{
+  background-color: #129b9b;
+}
+.contains .text{
+  text-align: justify;
+} 
 /* Home */
 .small-letters{
   height: 500px;

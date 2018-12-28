@@ -1,6 +1,6 @@
 import React from "react";
 
-const Home = () => (
+const Dyslexia = () => (
   <div className='home'>
     <div className="small-letters">
         <div className="first-title">Dysxie</div>
@@ -16,4 +16,4 @@ const Home = () => (
   </div>
 );
 
-export default Home;
+export default Dyslexia;
