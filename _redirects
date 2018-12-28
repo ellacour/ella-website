@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://objective-hermann-80ac0d.netlify.com/* http://www.dysxie.com/:splat 301!
